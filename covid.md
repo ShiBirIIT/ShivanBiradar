@@ -9,3 +9,26 @@ Lets directly jump to results, since they are **exciting!!**. <br />
 NOTE: The filled dots represent the data window i.e. the data used for estimating the parameters of the model. The unfilled dots represents the observed data. The black dotted line is the estimated curve, The blue line is the 20 days ahead prediction.
 
 ![daily_confirm](https://user-images.githubusercontent.com/65863581/84596351-cbffbf00-ae7a-11ea-84ab-7de7e7b51931.jpg)
+
+|    Day    | Observed daily  incidences of  COVID-19 in India | Prediction of  Daily incidence  of COVID-19 in INDIA |
+|:---------:|:------------------------------------------------:|:----------------------------------------------------:|
+| 31-May-19 |                       8332                       |                         7644                         |
+|  1-Jun-19 |                       8788                       |                         7923                         |
+|  2-Jun-19 |                       7722                       |                         8210                         |
+|  3-Jun-19 |                       8815                       |                         8507                         |
+|  4-Jun-19 |                       9638                       |                         8813                         |
+|  5-Jun-19 |                       9838                       |                         9129                         |
+|  6-Jun-19 |                       9462                       |                         9455                         |
+|  7-Jun-19 |                       10521                      |                         9791                         |
+|  8-Jun-19 |                       10884                      |                         10137                        |
+|  9-Jun-19 |                       8444                       |                         10495                        |
+| 10-Jun-19 |                       8852                       |                         10863                        |
+| 11-Jun-19 |                       11156                      |                         11243                        |
+| 12-Jun-19 |                       11128                      |                         11634                        |
+| 13-Jun-19 |                       11314                      |                         12038                        |
+| 14-Jun-19 |                       12031                      |                         12453                        |
+| 15-Jun-19 |               Lets see what happens              |                         12881                        |
+| 16-Jun-19 |               Lets see what happens              |                         13323                        |
+| 17-Jun-19 |               Lets see what happens              |                         13777                        |
+| 18-Jun-19 |               Lets see what happens              |                         14245                        |
+| 19-Jun-19 |               Lets see what happens              |                         14727                        |
