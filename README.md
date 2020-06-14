@@ -1,4 +1,4 @@
-:--------------------------------------------:
+
 ![logo_1](https://user-images.githubusercontent.com/65863581/84593905-73292a00-ae6c-11ea-85cc-eb32765471a4.jpg)
 
 # About Me 
