@@ -1,5 +1,5 @@
 
-![logo_1](https://user-images.githubusercontent.com/65863581/84593905-73292a00-ae6c-11ea-85cc-eb32765471a4.jpg)
+|![logo_1](https://user-images.githubusercontent.com/65863581/84593905-73292a00-ae6c-11ea-85cc-eb32765471a4.jpg)|
 
 # About Me 
 I am a first year PhD student in Department of Electrical Engineering, at IIT Delhi. I am fortunate to be advised by [Prof. Deepak U Patil ](http://web.iitd.ac.in/~deepakpatil/) in the Laboratory for Control and Automation. I have completed my Masters at Indian Institute of Technology Roorkee in System and Controls. 
