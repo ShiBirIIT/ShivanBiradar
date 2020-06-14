@@ -3,7 +3,9 @@ I am a first year PhD student in Department of Electrical Engineering, at IIT De
 Before graduate school, I was a part of Integrated Control Guidance and Estimation Lab at Indian Institute of Science. 
 I have also spent some time at KIIT teaching undergrads.
 # Research Interests
-My research interests lie in the intersection of inverse problems in electrical circuit, estimation theory, and graph theory. I am particularly interested in recontructing underlying structural properties of electrical circuits.
+My major research interests lie in the intersection of inverse problems in electrical circuit, estimation theory, and graph theory. 
+I am particularly interested in recontructing underlying structural properties of electrical circuits. 
+I am also interested in working on development of estimation and control algorithm for blood glucose control. I have very recently started working on epidemic forcasting of COVID-19.
  
 [Google Scholar](https://scholar.google.com/citations?user=R8c6wqUAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Shivanagouda_Biradar3)| [GitHub](https://github.com/ShiBirIIT)
 
