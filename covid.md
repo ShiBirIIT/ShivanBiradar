@@ -1,1 +1,1 @@
-# REAL-TIME FORECASTING OF AN EPIDEMIC USING DISCRETE TIME STOCHASTIC MODEL: A CASE STUDY OF PANDEMIC COVID-19
+# Real Time Forecasting of an Epidemic Using<br /> Discrete Time Stochastic Model: A Case Study of Pandemic Covid-19
