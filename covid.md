@@ -34,7 +34,7 @@ NOTE: The filled dots represent the data window i.e. the data used for estimatin
 | 19-Jun-19 |               Lets see what happens!!            |                         14727                        |
 
 ![cum_confirm](https://user-images.githubusercontent.com/65863581/84599053-daef6d00-ae8c-11ea-9155-ef82c5e7bc52.jpg)
-|    Day    | Observed daily  incidences of  COVID-19 in India | Prediction of  Daily incidence  of COVID-19 in INDIA |
+|    Day    | Observed daily  <br />incidences of  COVID-19 in India | Prediction of  Daily <br />incidence  of COVID-19 in INDIA |
 |:---------:|:------------------------------------------------:|:----------------------------------------------------:|
 | 31-May-19 |                      181826                      |                        181430                        |
 |  1-Jun-19 |                      190648                      |                        189070                        |
