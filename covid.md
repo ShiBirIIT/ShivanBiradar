@@ -32,19 +32,3 @@ NOTE: The filled dots represent the data window i.e. the data used for estimatin
 | 17-Jun-19 |               Lets see what happens!!            |                         13777                        |
 | 18-Jun-19 |               Lets see what happens!!            |                         14245                        |
 | 19-Jun-19 |               Lets see what happens!!            |                         14727                        |
-
-![cum_confirm](https://user-images.githubusercontent.com/65863581/84599053-daef6d00-ae8c-11ea-9155-ef82c5e7bc52.jpg)
-**Day**|**Observed Cumulative incidence**|**Predicted Cumulative incidences**
-:-----:|:-----:|:-----:
-8-Jun-19|257487|250900
-9-Jun-19|265929|261040
-10-Jun-19|274781|271530
-11-Jun-19|287156|282400
-12-Jun-19|298284|293640
-13-Jun-19|309607|305270
-14-Jun-19|321630|317310
-15-Jun-19|Lets see what happens!!|329760
-16-Jun-19|Lets see what happens!!|342650
-17-Jun-19|Lets see what happens!!|355970
-18-Jun-19|Lets see what happens!!|369750
-19-Jun-19|Lets see what happens!!|383990
