@@ -13,8 +13,13 @@ NOTE: The filled dots represent the data window i.e. the data used for estimatin
 
 |    Day    | Observed daily  <br />incidences of  COVID-19 in India | Prediction of  Daily <br />incidence  of COVID-19 in INDIA |
 |:---------:|:------------------------------------------------:|:----------------------------------------------------:|
-| 13-Jun-20 |                       11314                      |                         12038                        |
-| 14-Jun-20 |                       12031                      |                         12453                        |
+| 08-Jun-20 |                       8444                       |                         10240                        |
+| 09-Jun-20 |                       8852                       |                         10550                        |
+| 10-Jun-20 |                       11156                      |                         10880                        |
+| 11-Jun-20 |                       11128                      |                         11138                        |
+| 12-Jun-20 |                       11314                      |                         12038                        |
+| 13-Jun-20 |                       12031                      |                         12453                        |
+| 14-Jun-20 |                       11396                      |                         12240                        |
 | 15-Jun-20 |                       10014                      |                         12881                        |
 | 16-Jun-20 |                       11090                      |                         13323                        |
 | 17-Jun-20 |                       13107                      |                         13777                        |
