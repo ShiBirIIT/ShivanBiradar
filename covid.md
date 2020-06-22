@@ -13,23 +13,11 @@ NOTE: The filled dots represent the data window i.e. the data used for estimatin
 
 |    Day    | Observed daily  <br />incidences of  COVID-19 in India | Prediction of  Daily <br />incidence  of COVID-19 in INDIA |
 |:---------:|:------------------------------------------------:|:----------------------------------------------------:|
-| 31-May-19 |                       8332                       |                         7644                         |
-|  1-Jun-19 |                       8788                       |                         7923                         |
-|  2-Jun-19 |                       7722                       |                         8210                         |
-|  3-Jun-19 |                       8815                       |                         8507                         |
-|  4-Jun-19 |                       9638                       |                         8813                         |
-|  5-Jun-19 |                       9838                       |                         9129                         |
-|  6-Jun-19 |                       9462                       |                         9455                         |
-|  7-Jun-19 |                       10521                      |                         9791                         |
-|  8-Jun-19 |                       10884                      |                         10137                        |
-|  9-Jun-19 |                       8444                       |                         10495                        |
-| 10-Jun-19 |                       8852                       |                         10863                        |
-| 11-Jun-19 |                       11156                      |                         11243                        |
-| 12-Jun-19 |                       11128                      |                         11634                        |
 | 13-Jun-19 |                       11314                      |                         12038                        |
 | 14-Jun-19 |                       12031                      |                         12453                        |
-| 15-Jun-19 |               Lets see what happens!!            |                         12881                        |
-| 16-Jun-19 |               Lets see what happens!!            |                         13323                        |
+| 15-Jun-19 |                       10014                      |                         12881                        |
+| 16-Jun-19 |               11090
+            |                         13323                        |
 | 17-Jun-19 |               Lets see what happens!!            |                         13777                        |
 | 18-Jun-19 |               Lets see what happens!!            |                         14245                        |
 | 19-Jun-19 |               Lets see what happens!!            |                         14727                        |
