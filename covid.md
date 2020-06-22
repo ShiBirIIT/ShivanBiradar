@@ -13,12 +13,21 @@ NOTE: The filled dots represent the data window i.e. the data used for estimatin
 
 |    Day    | Observed daily  <br />incidences of  COVID-19 in India | Prediction of  Daily <br />incidence  of COVID-19 in INDIA |
 |:---------:|:------------------------------------------------:|:----------------------------------------------------:|
-| 13-Jun-19 |                       11314                      |                         12038                        |
-| 14-Jun-19 |                       12031                      |                         12453                        |
-| 15-Jun-19 |                       10014                      |                         12881                        |
-| 16-Jun-19 |               11090
-            |                         13323                        |
-| 17-Jun-19 |               Lets see what happens!!            |                         13777                        |
-| 18-Jun-19 |               Lets see what happens!!            |                         14245                        |
-| 19-Jun-19 |               Lets see what happens!!            |                         14727                        |
+| 13-Jun-20 |                       11314                      |                         12038                        |
+| 14-Jun-20 |                       12031                      |                         12453                        |
+| 15-Jun-20 |                       10014                      |                         12881                        |
+| 16-Jun-20 |                       11090                      |                         13323                        |
+| 17-Jun-20 |                       13107                      |                         13777                        |
+| 18-Jun-20 |                       13826                      |                         14245                        |
+| 19-Jun-20 |                       14740                      |                         14727                        |
+| 20-Jun-20 |                       15898                      |                         14510                        |
+| 21-Jun-21 |                       15158                      |                         14727                        |
+| 22-Jun-21 |                       !!                         |                         15330                        |
+| 23-Jun-21 |                       !!                         |                         15750                        |
+| 24-Jun-21 |                       !!                         |                         16180                        |
+| 25-Jun-21 |                       !!                         |                         16620                        |
+| 26-Jun-21 |                       !!                         |                         17530                        |
+
+
+
 
