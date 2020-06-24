@@ -27,8 +27,8 @@ NOTE: The filled dots represent the data window i.e. the data used for estimatin
 | 19-Jun-20 |                       14740                      |                         14727                        |
 | 20-Jun-20 |                       15898                      |                         14510                        |
 | 21-Jun-21 |                       15158                      |                         14727                        |
-| 22-Jun-21 |                       !!                         |                         15330                        |
-| 23-Jun-21 |                       !!                         |                         15750                        |
+| 22-Jun-21 |                       13550                      |                         15330                        |
+| 23-Jun-21 |                       15650                      |                         15750                        |
 | 24-Jun-21 |                       !!                         |                         16180                        |
 | 25-Jun-21 |                       !!                         |                         16620                        |
 | 26-Jun-21 |                       !!                         |                         17530                        |
