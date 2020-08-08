@@ -6,7 +6,7 @@ The Algorithm used is based on a premise that a person in susceptible population
 Algorithm-2 models this chain of infection as a binomial process, and estimates the probabilities, which can be further used to predict incidence of COVID-19.
 # DETAILED REPORT
 
-Report
+[Report](/doc/report.pdf)
 
 # Results
 **Lets directly jump to results, since they are **exciting!!, I will upload the abridged report of the implemented algorithm in a shortwhile.**<br />
