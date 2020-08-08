@@ -4,6 +4,9 @@
 This work recognises the stochastic nature of the epidemic dynamics and uses the concepts of well established stochastic models like Reed-Frost model and Greenwood Model, to predict the epidemiological trend of the prevalence and incidence of COVID-2019. <br /><br />
 The Algorithm used is based on a premise that a person in susceptible population can either be infected or escapes the infection with certain probability when he comes in adequate contact with an infective. This process creates a chain of infection in population. The
 Algorithm-2 models this chain of infection as a binomial process, and estimates the probabilities, which can be further used to predict incidence of COVID-19.
+# DETAILED REPORT
+
+Report
 
 # Results
 **Lets directly jump to results, since they are **exciting!!, I will upload the abridged report of the implemented algorithm in a shortwhile.**<br />
