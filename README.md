@@ -11,6 +11,17 @@ I am particularly interested in recontructing underlying structural properties o
  
 [Google Scholar](https://scholar.google.com/citations?user=R8c6wqUAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Shivanagouda_Biradar3)| [GitHub](https://github.com/ShiBirIIT) | [CV](/doc/Professional_CV.pdf)
 
+# Course Work Completed
+- Advanced Linear Algebra
+- Convex Optimization
+- Multiagent system
+- Nonlinear system
+- System Identification
+- Mathematical Methods in Control System
+- Stochastic Filtering and Identification\
+- Optimal Control Theory
+- Probability and Statistics
+
 # Publications
 - [Reduced-order modeling of linear time invariant systems using big bang big crunch optimization and time moment matching method.](https://www.sciencedirect.com/science/article/pii/S0307904X16301317)<br /> Shivanagouda Biradar, Yogesh Vijay Hote, Sahaj Saxena.<br />
 - [Physiological Models and Control for Type 1 Diabetes Mellitus: A Brief Review](https://www.sciencedirect.com/science/article/pii/S2405896318302416)<br /> Anirudh Nath, Shivanagouda Biradar, Archana Balan, Rajeeb Dey, Radhakant Padhi.<br />
