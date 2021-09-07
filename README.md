@@ -18,7 +18,7 @@ I am particularly interested in recontructing underlying structural properties o
 - Nonlinear system
 - System Identification
 - Mathematical Methods in Control System
-- Stochastic Filtering and Identification\
+- Stochastic Filtering and Identification
 - Optimal Control Theory
 - Probability and Statistics
 
