@@ -8,9 +8,9 @@ I have also spent some time at KIIT teaching undergrads.
 # Research Interests
 My major research interests lie in inverse problem, estimation theory, graph theory and networked multiagent system. 
 I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
- # PMRF WORK
+ # PMRF Work
  
- 
+ # Links
 [Google Scholar](https://scholar.google.com/citations?user=R8c6wqUAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Shivanagouda_Biradar3)| [GitHub](https://github.com/ShiBirIIT) | [CV](/doc/Professional_CV.pdf)
 
 # Course Work Completed
@@ -23,6 +23,9 @@ I am particularly interested in recontructing underlying structural properties o
 - Stochastic Filtering and Identification
 - Optimal Control Theory
 - Probability and Statistics
+# Course To Be Taken
+- Machine Learning
+- Adavanced Machine Learning (mostly related to Graphical Machine learning) 
 
 # Publications
 - [Reduced-order modeling of linear time invariant systems using big bang big crunch optimization and time moment matching method.](https://www.sciencedirect.com/science/article/pii/S0307904X16301317)<br /> Shivanagouda Biradar, Yogesh Vijay Hote, Sahaj Saxena.<br />
