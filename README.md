@@ -9,10 +9,10 @@ I have also spent some time at KIIT teaching undergrads.
 My major research interests lie in inverse problem, estimation theory, graph theory and networked multiagent system. 
 I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
 
- # PMRF Work
- -Work done
+# PMRF Work
+ Work done
  
- # Links
+# Links
 [Google Scholar](https://scholar.google.com/citations?user=R8c6wqUAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Shivanagouda_Biradar3)| [GitHub](https://github.com/ShiBirIIT) | [CV](/doc/Professional_CV.pdf)
 
 # Course Work Completed
