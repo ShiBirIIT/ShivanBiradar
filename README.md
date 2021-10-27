@@ -23,6 +23,7 @@ I am particularly interested in recontructing underlying structural properties o
 - Stochastic Filtering and Identification
 - Optimal Control Theory
 - Probability and Statistics
+
 # Course To Be Taken
 - Machine Learning
 - Adavanced Machine Learning (mostly related to Graphical Machine learning) 
