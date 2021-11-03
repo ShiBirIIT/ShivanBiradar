@@ -1,5 +1,6 @@
 #PROXIMAL OPERATOR
-- Proximal operator of closed convex proper function $`f`$
+- Proximal operator of closed convex proper function $`f`$ is defined as:
+
 This is markdown with some display math
 ```math
 a^b + b^2 = c^2
