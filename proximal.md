@@ -22,15 +22,3 @@ end
 ![/Users/shivanagoudabiradar/Desktop/untitled_images/figure_0.png
 ](https://github.com/ShivanB/Shivan-Biradar/blob/master/figure_0.png
 )
-
-```matlab:Code
-
-livescript2markdown('untitled.mlx')
-```
-
-```text:Output
-Coverting latex to markdown is complete
-untitled.md
-Note: Related images are saved in untitled_images
-ans = "/Users/shivanagoudabiradar/Desktop/untitled.md"
-```
