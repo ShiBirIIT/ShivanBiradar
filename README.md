@@ -13,9 +13,8 @@ I am particularly interested in recontructing underlying structural properties o
  -[Electrical Network Identification Using Groebner Basis]()<br>
  -[How can white noise used for identification of the network topology]()<br>
  -[Causal Link discovery with Network Topology Identification]()<br>
- $\bullet$ [Graphical Machine Learning]()<br>
+ -[Graphical Machine Learning]()<br>
  
-
 # Convex Optimization Notes 
 -[Proximal Operator](https://github.com/ShivanB/Shivan-Biradar/blob/master/proximal.md) <br>
 
