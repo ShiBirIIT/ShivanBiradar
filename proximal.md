@@ -20,7 +20,7 @@ end
 ```
 
 ![/Users/shivanagoudabiradar/Desktop/untitled_images/figure_0.png
-](untitled_images//Users/shivanagoudabiradar/Desktop/untitled_images/figure_0.png
+](https://github.com/ShivanB/Shivan-Biradar/blob/master/figure_0.png
 )
 
 ```matlab:Code
