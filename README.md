@@ -6,7 +6,7 @@ I am a third year Prime Minister Research Fellow doing PhD student in Department
 Before graduate school, I was a part of Integrated Control Guidance and Estimation Lab at Indian Institute of Science. 
 I have also spent some time at KIIT teaching undergrads.
 # Research Interests
-My major research interests lie in inverse problem, estimation theory, graph theory and networked multiagent system. 
+My major research interests lie in Network topology identitification, estimation theory, graph theory and networked multiagent system. 
 I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
 
 # PMRF - PhD Work
