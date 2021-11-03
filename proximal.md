@@ -1,0 +1,36 @@
+```matlab:Code
+clc
+clear all
+close all
+z = [-2.5 -1.5 0 1.5 2.5];
+x = -3:0.01:3;
+figure(1)
+plot(x,abs(x));
+ylim([-1 6]);
+hold on
+grid on
+for i=1:1:length(z)
+%     f1 = abs(z(i))
+      f1 = abs(z(i)); 
+    f2 = (z(i)-x).^2;
+f = f1 + f2;
+plot(x,f)
+hold on
+end
+```
+
+![/Users/shivanagoudabiradar/Desktop/untitled_images/figure_0.png
+](untitled_images//Users/shivanagoudabiradar/Desktop/untitled_images/figure_0.png
+)
+
+```matlab:Code
+
+livescript2markdown('untitled.mlx')
+```
+
+```text:Output
+Coverting latex to markdown is complete
+untitled.md
+Note: Related images are saved in untitled_images
+ans = "/Users/shivanagoudabiradar/Desktop/untitled.md"
+```
