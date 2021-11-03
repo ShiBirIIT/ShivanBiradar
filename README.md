@@ -16,7 +16,7 @@ I am particularly interested in recontructing underlying structural properties o
  -[Graphical Machine Learning]()<br>
  
 # Convex Optimization Notes 
--[Proximal Operator](https://github.com/ShivanB/Shivan-Biradar/blob/master/proximal.md) <br>
+-[Proximal Operator](https://github.com/ShivanB/Shivan-Biradar/blob/master/Proximal_Operator.ipynb) <br>
 
 # Links
 [Google Scholar](https://scholar.google.com/citations?user=R8c6wqUAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Shivanagouda_Biradar3)| [GitHub](https://github.com/ShiBirIIT) | [CV](/doc/Professional_CV.pdf)
