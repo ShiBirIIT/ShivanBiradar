@@ -14,7 +14,7 @@ I am particularly interested in recontructing underlying structural properties o
 
 # Convex Optimization 
   -[Proximal Operator](https://github.com/ShivanB/Shivan-Biradar/blob/master/Proximal_Operator.ipynb)
- - [Proximal Operator in md] ()
+ - [Proximal Operator in md] (https://github.com/ShivanB/Shivan-Biradar/blob/master/Proximal_Operator.md)
  
 
 
