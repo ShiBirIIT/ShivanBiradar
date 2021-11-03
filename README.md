@@ -13,7 +13,7 @@ I am particularly interested in recontructing underlying structural properties o
  Work done
 
 # Convex Optimization 
-  Proximal Operator
+  [Proximal Operator](Proximal Operator.md) 
  
 
 
