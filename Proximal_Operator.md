@@ -1,4 +1,4 @@
-#PROXIMAL OPERATOR
+# PROXIMAL OPERATOR
 - Proximal operator of closed convex proper function $`f`$ is defined as:
 
 This is markdown with some display math
