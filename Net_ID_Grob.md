@@ -68,6 +68,16 @@ Assumptions:<br>
 - All the resistance in the circuit is 1Ω.<br>
 - Terminal index and vertex index are known.<br>
 - No voltage source in the circuit.<br><br>
+
+<div align="center">
+
+  Example Problem Setup
+  
+<div>  
+  
+  ![compre_22-03-2021_FINAL_Page_10](https://github.com/ShivanB/Shivan-Biradar/blob/master/assets/img/compre_22-03-2021_FINAL_Page_10.jpg)<br>
+  
+  
 <div align="center">
   
  First Step in Strategy: Performing experiments<br><br>
@@ -109,3 +119,14 @@ matrix to resistance distance.  <br><br>
 </div>
   
    ![compre_22-03-2021_FINAL_Page_14](https://github.com/ShivanB/Shivan-Biradar/blob/master/assets/img/compre_22-03-2021_FINAL_Page_14.jpg)
+
+<div align="center">
+  
+ Results<br><br>
+  
+</div>
+  
+ ![compre_22-03-2021_FINAL_Page_15](https://github.com/ShivanB/Shivan-Biradar/blob/master/assets/img/compre_22-03-2021_FINAL_Page_15.jpg)
+<div align="justify">  
+The green boxed graph G represent the solution. This work needs to be extended to account for electrical networks with arbitrary resistance value, electrical network with energy storing elements.
+  <div>
