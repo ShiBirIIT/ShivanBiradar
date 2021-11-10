@@ -18,8 +18,12 @@ My major research interests lie in Network topology identitification, estimation
  -[Graphical Machine Learning](https://github.com/ShivanB/Shivan-Biradar/blob/master/GML.md)<br>
  
 # Convex Optimization Notes 
--[Descent Algorithms](https://github.com/ShivanB/Shivan-Biradar/blob/master/Desc_Algo.ipynb) <br>
--[Proximal Operator](https://github.com/ShivanB/Shivan-Biradar/blob/master/Proximal_Operator.ipynb) <br>
+- [Legendre Transformation]()
+- [Conjugate Function]()
+- [Duality]()  
+- [KKT]()  
+- [Descent Algorithms](https://github.com/ShivanB/Shivan-Biradar/blob/master/Desc_Algo.ipynb) <br>
+- [Proximal Operator](https://github.com/ShivanB/Shivan-Biradar/blob/master/Proximal_Operator.ipynb) <br>
 
 # Links
 [Google Scholar](https://scholar.google.com/citations?user=R8c6wqUAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Shivanagouda_Biradar3)| [GitHub](https://github.com/ShiBirIIT) | [CV](/doc/Professional_CV.pdf)
