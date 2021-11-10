@@ -5,5 +5,6 @@ We find that with the help of noise, in general it becomes possible to identify 
 # Strategy of Solving Problem
 ![White_noise_1](assets/img/white_noise_1.jpg)
 # Problem Formulation
-![White_noise_2](assets/img/white_noise_1.jpg)
+![White_noise_2](assets/img/white_noise_2.jpg)
+
 
