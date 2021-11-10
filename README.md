@@ -10,7 +10,7 @@ My major research interests lie in Network topology identitification, estimation
 I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
 
 # PMRF - PhD Work
- -[Electrical Network Identification Using Groebner Basis](https://github.com/ShivanB/Shivan-Biradar/blob/master/ENIUGB)<br>
+ -[Electrical Network Identification Using Groebner Basis](https://github.com/ShivanB/Shivan-Biradar/blob/master/Net_ID_Grob.md)<br>
  -[How can white noise used for identification of the network topology]()<br>
  -[Causal Link discovery with Network Topology Identification]()<br>
  -[Graphical Machine Learning]()<br>
