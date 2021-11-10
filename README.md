@@ -24,6 +24,13 @@ My major research interests lie in Network topology identitification, estimation
 - [KKT]()  
 - [Descent Algorithms](https://github.com/ShivanB/Shivan-Biradar/blob/master/Desc_Algo.ipynb) <br>
 - [Proximal Operator](https://github.com/ShivanB/Shivan-Biradar/blob/master/Proximal_Operator.ipynb) <br>
+- [Steifel Manifold]()
+- [Isotonic Regression]()
+- [Important Identities and Proofs]()
+
+# Advanced Linear Algebra Notes
+- [Gauss Elimination and Rank of Matrix]()
+- [Matrix Inverse]()
 
 # Links
 [Google Scholar](https://scholar.google.com/citations?user=R8c6wqUAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Shivanagouda_Biradar3)| [GitHub](https://github.com/ShiBirIIT) | [CV](/doc/Professional_CV.pdf)
