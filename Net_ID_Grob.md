@@ -17,6 +17,6 @@
 </div>
 <div align="justify">
   
-  ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+  ![https://github.com/ShivanB/Shivan-Biradar/blob/master/assets/img/compre_22-03-2021_FINAL_Page_04.jpg)
   
   </div>
