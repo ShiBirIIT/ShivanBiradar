@@ -1,13 +1,13 @@
 |![logo_1](https://user-images.githubusercontent.com/65863581/84593905-73292a00-ae6c-11ea-85cc-eb32765471a4.jpg)|
 
 # About Me 
-<div align="justify">
+
 I am a third year Prime Minister Research Fellow doing PhD student in Department of Electrical Engineering, at IIT Delhi. I am fortunate to be advised by [Prof. Deepak U Patil ](http://web.iitd.ac.in/~deepakpatil/) in the Laboratory for Control and Automation. I have completed my Masters at Indian Institute of Technology Roorkee in System and Controls. 
 Before graduate school, I was a part of Integrated Control Guidance and Estimation Lab at Indian Institute of Science. 
 I have also spent some time at KIIT teaching undergrads.
 
 # Research Interests
- <div align="justify">
+
 My major research interests lie in Network topology identitification, estimation theory, graph theory and networked multiagent system.  I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
 
 # PMRF - PhD Work
