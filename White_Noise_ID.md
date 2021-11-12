@@ -6,5 +6,12 @@ We find that with the help of noise, in general it becomes possible to identify 
 ![White_noise_1](assets/img/white_noise_1.jpg)
 # Problem Formulation
 ![White_noise_2](assets/img/white_noise_2.jpg)
+![White_noise_3](assets/img/white_noise_3.jpg)
+![White_noise_4](assets/img/white_noise_4.jpg)
+![White_noise_5](assets/img/white_noise_5.jpg)
+![White_noise_6](assets/img/white_noise_6.jpg)
+# RESULT
+![White_noise_7](assets/img/white_noise_7.jpg)
+
 
 
