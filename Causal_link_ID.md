@@ -4,4 +4,7 @@ Reconstructing the causal relations behind the phenomena  we  observe  is  a  fu
 In control systems, the causality is associated with input and output signal. The input and output signal are related by system transfer function. We also try to find the relation between input and output using conventional parameter estimation methods.<br><br>
 
 # STRATEGY 
-![assets/img/Causal_net_disc_1](assets/img/Causal_net_disc_1.jpg) 
+![assets/img/Causal_net_disc_1](assets/img/Causal_net_disc_1.jpg)
+# RESULTS
+ ![assets/img/Causal_net_disc_2](assets/img/causal_net_ID_2.jpg)
+
