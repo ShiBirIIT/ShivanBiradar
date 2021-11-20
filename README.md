@@ -17,7 +17,7 @@ My major research interests lie in Network topology identitification, estimation
  - [Graphical Machine Learning](https://github.com/ShivanB/Shivan-Biradar/blob/master/GML.md)<br>
  
  # System Identification
- - [Most Powerful Unfalsified Model](mpum.ipynb)<br>
+ - [Most Powerful Unfalsified Model](mpum.ipynb)
  
 # Convex Optimization Notes 
 - [Legendre Transformation](doc\report.pdf)
