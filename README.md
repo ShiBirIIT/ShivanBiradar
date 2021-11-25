@@ -20,7 +20,7 @@ My major research interests lie in Network topology identitification, estimation
  - [Most Powerful Unfalsified Model](mpum.ipynb)
  
 # Convex Optimization Notes 
-- [Legendre Transformation](doc\report.pdf)
+- [Legendre Transformation](https://github.com/ShivanB/Shivan-Biradar/blob/master/doc/0806.1147.pdf)
 - [Conjugate Function]()
 - [Duality]()  
 - [KKT]()  
