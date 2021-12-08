@@ -14,7 +14,7 @@ My major research interests lie in Network topology identitification, estimation
  - [Electrical Network Identification Using Groebner Basis](https://github.com/ShivanB/Shivan-Biradar/blob/master/Net_ID_Grob.md)<br>
  - [How can white noise used for identification of the network topology](https://github.com/ShivanB/Shivan-Biradar/blob/master/White_Noise_ID.md)<br>
  - [Causal Link discovery with Network Topology Identification](https://github.com/ShivanB/Shivan-Biradar/blob/master/Causal_link_ID.md)<br>
- - [Graphical Machine Learning](https://github.com/ShivanB/Shivan-Biradar/blob/master/GML.md)<br>
+ - [Graphical Machine Learning](https://github.com/ShivanB/Shivan-Biradar/blob/master/GML.md)
  
  # System Identification
  - [Most Powerful Unfalsified Model](mpum.ipynb)
