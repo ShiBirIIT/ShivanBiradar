@@ -9,7 +9,7 @@ I have also spent some time at KIIT teaching undergrads.
 # Research Interests
 
 My major research interests lie in Network topology identitification, estimation theory, graph theory and networked multiagent system.  I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
-# Favorite Sanskrit Sloka
+# Favorite Sanskrit Sloka-[Click!!!](https://github.com/ShivanB/Shivan-Biradar/blob/master/doc/0806.1147.pdf)
 (1)
 (Copied from Prof. Sumantra Datta roy's webpage)
                                    <h1 align="center">उद्योगिनं पुरुषसिंहमुपैति लक्ष्मी-<br>
