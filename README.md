@@ -11,10 +11,16 @@ I have also spent some time at KIIT teaching undergrads.
 My major research interests lie in Network topology identitification, estimation theory, graph theory and networked multiagent system.  I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
 # Favorite Sanskrit Sloka
 
+(Copied from Prof. Sumantra Datta roy's webpage)
                                    UDYOGINAM   PURUSHASIMHAM   UPAITI  LAKSHMEEH
                                    DAIVEN   DEYAM   ITI   KAAPURUSHAAH   VADANTI
                                    DAIVAM  NIHATYA KURU PAURUSHAM  AATMASHAKTYAA
                                    YATNE KRITE YADI NA SIDHYATI KO ATRA DOSHAH
+                                   
+                                   Meaning: Lakshmee(prosperity) chooses(Upaiti) an industrious, lion-like person.
+                                   That destiny should be the provider - this only the cowardly say. 
+                                   "Kill" destiny and perform hard work to the best of your ability. 
+                                   If even after you put in effort (you) don't succeed, then whose fault is it? 
 
 # PMRF - PhD Work
  - [Electrical Network Identification Using Groebner Basis](https://github.com/ShivanB/Shivan-Biradar/blob/master/Net_ID_Grob.md)<br>
