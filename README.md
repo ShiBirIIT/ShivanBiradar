@@ -9,6 +9,12 @@ I have also spent some time at KIIT teaching undergrads.
 # Research Interests
 
 My major research interests lie in Network topology identitification, estimation theory, graph theory and networked multiagent system.  I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
+# Favorite Sanskrit Sloka
+
+                                   UDYOGINAM   PURUSHASIMHAM   UPAITI  LAKSHMEEH
+                                   DAIVEN   DEYAM   ITI   KAAPURUSHAAH   VADANTI
+                                   DAIVAM  NIHATYA KURU PAURUSHAM  AATMASHAKTYAA
+                                   YATNE KRITE YADI NA SIDHYATI KO ATRA DOSHAH
 
 # PMRF - PhD Work
  - [Electrical Network Identification Using Groebner Basis](https://github.com/ShivanB/Shivan-Biradar/blob/master/Net_ID_Grob.md)<br>
