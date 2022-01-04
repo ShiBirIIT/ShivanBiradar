@@ -9,33 +9,7 @@ I have also spent some time at KIIT teaching undergrads.
 # Research Interests
 
 My major research interests lie in Network topology identitification, estimation theory, graph theory and networked multiagent system.  I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
-# Favorite Sanskrit Sloka-[Click!!!](https://github.com/ShivanB/Shivan-Biradar/blob/master/doc/0806.1147.pdf)
-(1)
-(Copied from Prof. Sumantra Datta roy's webpage)
-                                   <h1 align="center">उद्योगिनं पुरुषसिंहमुपैति लक्ष्मी-<br>
-                                                    -र्दैवेन देयमिति कापुरुषा वदन्ति |<br>
-                                                     दैवं निहत्य कुरु पौरुषमात्मशक्त्या<br>
-                                                    यत्ने कृते यदि न सिध्यन्ति कोत्र दोषः ||</h1>
-                                  
-                                   Meaning: Lakshmee(prosperity) chooses(Upaiti) an industrious, lion-like person.
-                                   That destiny should be the provider - this only the cowardly say. 
-                                   "Kill" destiny and perform hard work to the best of your ability. 
-                                   If even after you put in effort (you) don't succeed, then whose fault is it? 
-       
-# Favorite Sanskrit Sloka
-(2)
-                                        <h1 align="center">रत्नाकरधौतपदां हिमालयकिरीटिनीम्।<br>
-                                                    ब्रह्मराजर्षिरत्नाढ्याम वन्देभारतमातम्॥</h1>
-                                                    
-                                   Meaning: Salute to my mother India, whos’ feet are washed by the sea, 
-                                   adorned with Himalaya, she, who possess many Brahmarishis (intellectual sages) 
-                                   and Rajyarishis (king sages).
-                                   HIndi: जिनके पैर समुद्र द्वारा धोए जाते हैं 
-                                   और जो हिमालय से सुशोभित हैं, वह, 
-                                   जो कई ब्रह्मऋषियों और राजऋषियों से भरा है। 
-                                   ऐसी मेरी भारत माता को अभिवन्दन।       
-       
-                                   
+# Favorite Sanskrit Sloka-[Click!!!](https://github.com/ShivanB/Shivan-Biradar/blob/master/slokas.md)                                   
 # PMRF - PhD Work
  - [Electrical Network Identification Using Groebner Basis](https://github.com/ShivanB/Shivan-Biradar/blob/master/Net_ID_Grob.md)<br>
  - [How can white noise used for identification of the network topology](https://github.com/ShivanB/Shivan-Biradar/blob/master/White_Noise_ID.md)<br>
