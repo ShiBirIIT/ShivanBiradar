@@ -35,13 +35,36 @@
                                     
                                     Meaning: dambho darpo ’bhimānaśh cha krodhaḥ pāruṣhyam eva cha
                                                   ajñānaṁ chābhijātasya pārtha sampadam āsurīm
-                                    Translation: BG 16.4: O Parth, the qualities of those who possess a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.
+                                    Translation: BG 16.4: O Parth, the qualities of those who possess <br>
+                                    a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.
 
-                                    Commentary: Shree Krishna now expounds upon the six traits of those who possess demoniac natures. They are hypocrites, meaning they make an external show of virtuous behavior for impressing others, without possessing the matching internal traits. This creates an artificial Jekyll and Hyde personality, which is impure internally but has the external appearance of being pure. The behavior of demoniac natured people is arrogant and disrespectful to others. They are proud and conceited about their bodily possessions and designations, such as wealth, education, beauty, position, etc. They become angry when, due to lack of control of the mind, their lust and greed are frustrated. They are cruel and harsh, and devoid of sensitivity for others’ sufferings in their interactions with them. They have no understanding of the spiritual principles and hold unrighteousness to be righteousness.
+                                    Commentary: Shree Krishna now expounds upon the six traits of those who possess<br>
+                                    demoniac natures. They are hypocrites, meaning they make an external show of virtuous<br>
+                                    behavior for impressing others, without possessing the matching internal traits.<br>
+                                    This creates an artificial Jekyll and Hyde personality, which is impure internally <br>
+                                    but has the external appearance of being pure. The behavior of demoniac natured people<br>
+                                    is arrogant and disrespectful to others. They are proud and conceited about their bodily <br>
+                                    possessions and designations, such as wealth, education, beauty, position, etc.<br>
+                                    possessions and designations, such as wealth, education, beauty, position, etc.<br> 
+                                    possessions and designations, such as wealth, education, beauty, position, etc.<br>
+                                    They become angry when, due to lack of control of the mind, their lust and greed are frustrated. <br>
+                                    They are cruel and harsh, and devoid of sensitivity for others’ sufferings in their interactions with them.<br>
+                                    They have no understanding of the spiritual principles and hold unrighteousness to be righteousness.<br>
+                                    They become angry when, due to lack of control of the mind, their lust and greed are frustrated.<br>
+                                    They are cruel and harsh, and devoid of sensitivity for others’ sufferings in their interactions with them.<br>
+                                    They have no understanding of the spiritual principles and hold unrighteousness to be righteousness.<br>
+                                    They become angry when, due to lack of control of the mind, their lust and greed are frustrated.<br>
+                                    They are cruel and harsh, and devoid of sensitivity for others’ sufferings in their interactions with them. <br>
+                                    They have no understanding of the spiritual principles and hold unrighteousness to be righteousness.<br>
 (5)
                                               <h1 align="center" आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रिय: | <br>
                                                        यज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||<br>
                                                        āhāras tv api sarvasya tri-vidho bhavati priyaḥ<br>
                                                        yajñas tapas tathā dānaṁ teṣhāṁ bhedam imaṁ śhṛiṇu<br> </h1>
                                                        
-                                                       Meaning: The mind and body impact each other. Thus, the food people eat influences their nature and vice versa. The Chhāndogya Upaniṣhad explains that the coarsest part of the food we eat passes out as feces; the subtler part becomes flesh; and the subtlest part becomes the mind (6.5.1). Again, it states: āhāra śhuddhau sattva śhuddhiḥ, “By eating pure food, the mind becomes pure.” The reverse is also true—people with pure minds prefer pure foods.
+                                                       Meaning: The mind and body impact each other.<br>
+                                                       Thus, the food people eat influences their nature and vice versa.<br>
+                                                       The Chhāndogya Upaniṣhad explains that the coarsest part of the food we eat passes out as feces;<br>
+                                                       the subtler part becomes flesh; and the subtlest part becomes the mind (6.5.1).<br>
+                                                       Again, it states: āhāra śhuddhau sattva śhuddhiḥ, “By eating pure food, the mind becomes pure.” <br>
+                                                       The reverse is also true—people with pure minds prefer pure foods.
