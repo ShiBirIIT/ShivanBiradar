@@ -29,3 +29,22 @@
                                                           
                                     Meaning: हे वीणा और पुस्तक को धारण करने वाली सरस्वती माँ मेरी तरफ देखो| 
                                     हे हंसवाहिनी माँ दुर्गा मुझे विद्या का दान करें!
+                                    
+                                    <h1 align="center">दम्भो दर्पोऽभिमानश्च क्रोध: पारुष्यमेव च |
+                                                     अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् || 4||</h1>
+                                    
+
+                                    Meaning: dambho darpo ’bhimānaśh cha krodhaḥ pāruṣhyam eva cha
+                                                  ajñānaṁ chābhijātasya pārtha sampadam āsurīm
+
+dambhaḥ—hypocrisy; darpaḥ—arrogance; abhimānaḥ—conceit; cha—and; krodhaḥ—anger; pāruṣhyam—harshness; eva—certainly; cha—and; ajñānam—ignorance; cha—and; abhijātasya—of those who possess; pārtha—Arjun, the son of Pritha; sampadam—qualities; āsurīm—demoniac
+dambho darpo ’bhimanash cha krodhah parushyam eva cha
+ajnanam chabhijatasya partha sampadam asurim
+
+Translation
+BG 16.4: O Parth, the qualities of those who possess a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.
+
+Commentary
+Shree Krishna now expounds upon the six traits of those who possess demoniac natures. They are hypocrites, meaning they make an external show of virtuous behavior for impressing others, without possessing the matching internal traits. This creates an artificial Jekyll and Hyde personality, which is impure internally but has the external appearance of being pure.
+
+The behavior of demoniac natured people is arrogant and disrespectful to others. They are proud and conceited about their bodily possessions and designations, such as wealth, education, beauty, position, etc. They become angry when, due to lack of control of the mind, their lust and greed are frustrated. They are cruel and harsh, and devoid of sensitivity for others’ sufferings in their interactions with them. They have no understanding of the spiritual principles and hold unrighteousness to be righteousness.
