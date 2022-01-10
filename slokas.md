@@ -36,10 +36,6 @@
                                     Meaning: dambho darpo ’bhimānaśh cha krodhaḥ pāruṣhyam eva cha
                                                   ajñānaṁ chābhijātasya pārtha sampadam āsurīm
 
-dambhaḥ—hypocrisy; darpaḥ—arrogance; abhimānaḥ—conceit; cha—and; krodhaḥ—anger; pāruṣhyam—harshness; eva—certainly; cha—and; ajñānam—ignorance; cha—and; abhijātasya—of those who possess; pārtha—Arjun, the son of Pritha; sampadam—qualities; āsurīm—demoniac
-dambho darpo ’bhimanash cha krodhah parushyam eva cha
-ajnanam chabhijatasya partha sampadam asurim
-
 Translation
 BG 16.4: O Parth, the qualities of those who possess a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.
 
