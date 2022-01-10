@@ -48,7 +48,7 @@ Shree Krishna now expounds upon the six traits of those who possess demoniac nat
 
 The behavior of demoniac natured people is arrogant and disrespectful to others. They are proud and conceited about their bodily possessions and designations, such as wealth, education, beauty, position, etc. They become angry when, due to lack of control of the mind, their lust and greed are frustrated. They are cruel and harsh, and devoid of sensitivity for others’ sufferings in their interactions with them. They have no understanding of the spiritual principles and hold unrighteousness to be righteousness.
 (5)
-                                    <h1 align="center" आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रिय: | <br>
+                                              <h1 align="center" आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रिय: | <br>
                                                        यज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु || 7||<br>
                                                        āhāras tv api sarvasya tri-vidho bhavati priyaḥ
                                                        yajñas tapas tathā dānaṁ teṣhāṁ bhedam imaṁ śhṛiṇu</h1>
