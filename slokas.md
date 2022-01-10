@@ -43,7 +43,7 @@ ajnanam chabhijatasya partha sampadam asurim
 Translation
 BG 16.4: O Parth, the qualities of those who possess a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.
 
-Commentary
+Commentary:
 Shree Krishna now expounds upon the six traits of those who possess demoniac natures. They are hypocrites, meaning they make an external show of virtuous behavior for impressing others, without possessing the matching internal traits. This creates an artificial Jekyll and Hyde personality, which is impure internally but has the external appearance of being pure.
 
 The behavior of demoniac natured people is arrogant and disrespectful to others. They are proud and conceited about their bodily possessions and designations, such as wealth, education, beauty, position, etc. They become angry when, due to lack of control of the mind, their lust and greed are frustrated. They are cruel and harsh, and devoid of sensitivity for others’ sufferings in their interactions with them. They have no understanding of the spiritual principles and hold unrighteousness to be righteousness.
