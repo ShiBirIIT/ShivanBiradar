@@ -29,12 +29,10 @@
                                                           
                                     Meaning: हे वीणा और पुस्तक को धारण करने वाली सरस्वती माँ मेरी तरफ देखो| 
                                     हे हंसवाहिनी माँ दुर्गा मुझे विद्या का दान करें!
-                                    
-                                    
+(4)                                    
                                     <h1 align="center"> दम्भो दर्पोऽभिमानश्च क्रोध: पारुष्यमेव च |<br>
                                                      अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् || </h1>
                                     
-
                                     Meaning: dambho darpo ’bhimānaśh cha krodhaḥ pāruṣhyam eva cha
                                                   ajñānaṁ chābhijātasya pārtha sampadam āsurīm
 
