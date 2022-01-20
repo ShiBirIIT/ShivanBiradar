@@ -9,15 +9,18 @@ I have also spent some time at KIIT teaching undergrads.
 # Research Interests
 
 My major research interests lie in Network topology identitification, estimation theory, graph theory and networked multiagent system.  I am particularly interested in recontructing underlying structural properties of complex networked systems. <br /> I am also interested in working on development of estimation and control algorithm for blood glucose control.
-
+# Favorite Sanskrit Sloka-[Click!!!](https://github.com/ShivanB/Shivan-Biradar/blob/master/slokas.md)                                   
 # PMRF - PhD Work
  - [Electrical Network Identification Using Groebner Basis](https://github.com/ShivanB/Shivan-Biradar/blob/master/Net_ID_Grob.md)<br>
  - [How can white noise used for identification of the network topology](https://github.com/ShivanB/Shivan-Biradar/blob/master/White_Noise_ID.md)<br>
  - [Causal Link discovery with Network Topology Identification](https://github.com/ShivanB/Shivan-Biradar/blob/master/Causal_link_ID.md)<br>
- - [Graphical Machine Learning](https://github.com/ShivanB/Shivan-Biradar/blob/master/GML.md)<br>
+ - [Graphical Machine Learning](https://github.com/ShivanB/Shivan-Biradar/blob/master/GML.md)
+ 
+ # System Identification
+ - [Most Powerful Unfalsified Model](https://github.com/ShivanB/Shivan-Biradar/blob/master/mpum.ipynb)
  
 # Convex Optimization Notes 
-- [Legendre Transformation]()
+- [Legendre Transformation](https://github.com/ShivanB/Shivan-Biradar/blob/master/doc/0806.1147.pdf)
 - [Conjugate Function]()
 - [Duality]()  
 - [KKT]()  
@@ -30,6 +33,7 @@ My major research interests lie in Network topology identitification, estimation
 # Advanced Linear Algebra Notes
 - [Gauss Elimination and Rank of Matrix]()
 - [Matrix Inverse]()
+
 
 # Links
 [Google Scholar](https://scholar.google.com/citations?user=R8c6wqUAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Shivanagouda_Biradar3)| [GitHub](https://github.com/ShiBirIIT) | [CV](/doc/Professional_CV.pdf)
