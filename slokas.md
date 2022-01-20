@@ -35,7 +35,7 @@
                                     
                                     Meaning: dambho darpo ’bhimānaśh cha krodhaḥ pāruṣhyam eva cha
                                                   ajñānaṁ chābhijātasya pārtha sampadam āsurīm
-                                    Translation: BG 16.4: O Parth, the qualities of those who possess <br>
+                                    Translation: BG 16.4: O Parth, the qualities of those who possess 
                                     a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.
 
 (5)                                    
@@ -44,9 +44,9 @@
                                                        āhāras tv api sarvasya tri-vidho bhavati priyaḥ<br>
                                                        yajñas tapas tathā dānaṁ teṣhāṁ bhedam imaṁ śhṛiṇu<br> </h1>
                                                        
-                                                       Meaning: The mind and body impact each other.<br>
-                                                       Thus, the food people eat influences their nature and vice versa.<br>
-                                                       The Chhāndogya Upaniṣhad explains that the coarsest part of the food we eat passes out as feces;<br>
-                                                       the subtler part becomes flesh; and the subtlest part becomes the mind (6.5.1).<br>
-                                                       Again, it states: āhāra śhuddhau sattva śhuddhiḥ, “By eating pure food, the mind becomes pure.” <br>
+                                                       Meaning: The mind and body impact each other.
+                                                       Thus, the food people eat influences their nature and vice versa.
+                                                       The Chhāndogya Upaniṣhad explains that the coarsest part of the food we eat passes out as feces;
+                                                       the subtler part becomes flesh; and the subtlest part becomes the mind (6.5.1).
+                                                       Again, it states: āhāra śhuddhau sattva śhuddhiḥ, “By eating pure food, the mind becomes pure.” 
                                                        The reverse is also true—people with pure minds prefer pure foods.
