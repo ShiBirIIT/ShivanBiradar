@@ -38,8 +38,8 @@
                                     Translation: BG 16.4: O Parth, the qualities of those who possess <br>
                                     a demoniac nature are hypocrisy, arrogance, conceit, anger, harshness, and ignorance.
 
-(5)
-                                              <h1 align="center" आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रिय: | <br>
+(5)                                    
+                                      <h1 align="center"> आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रिय: | <br>
                                                        यज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ||<br>
                                                        āhāras tv api sarvasya tri-vidho bhavati priyaḥ<br>
                                                        yajñas tapas tathā dānaṁ teṣhāṁ bhedam imaṁ śhṛiṇu<br> </h1>
