@@ -23,7 +23,7 @@ My major research interests lie in Network topology identitification, estimation
 - [Legendre Transformation](https://github.com/ShivanB/Shivan-Biradar/blob/master/doc/0806.1147.pdf)
 - [Conjugate Function]()
 - [Duality]()  
-- [KKT]()  
+- [KKT](https://github.com/ShivanB/Shivan-Biradar/blob/master/KKT.ipynb)  
 - [Descent Algorithms](https://github.com/ShivanB/Shivan-Biradar/blob/master/Desc_Algo.ipynb) <br>
 - [Proximal Operator](https://github.com/ShivanB/Shivan-Biradar/blob/master/Proximal_Operator.ipynb) <br>
 - [Steifel Manifold]()
