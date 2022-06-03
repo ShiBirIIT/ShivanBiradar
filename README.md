@@ -57,7 +57,7 @@ My major research interests lie in Network topology identitification, estimation
 - [Modified Bergmann Minimal Model for glucose-Insulin dynamics and estimation of model parameters for Indian population](https://www.semanticscholar.org/paper/MODIFIED-BERGMAN-MINIMAL-MODEL-FOR-GLUCOSE-INSULIN-Biradar-Balan/2953cf8f5a09b2592aaaeaaab2d8982419b09608).<br /> Shivanagouda Biradar, A Balan, R Padhi, M Dharamalingam.
 - [Fractional-order IMC controller for high-order system using reduced-order modelling via Big-Bang, Big-Crunch optimisation](https://www.tandfonline.com/doi/full/10.1080/00207721.2021.1942587) <br /> Sahaj Saxena, Shivanagouda Biradar, Yogesh Vijay Hote.  <br />
 
-# Publications (Journal) in PhD
+# Publications in PhD
 - Topology Reconstruction of circular planar passive resistive network using resistance distance metric. (Accepted with minor revisions in IEEE Transactions on Circuits and Systems I: Regular Papers) <br /> Shivanagouda Biradar, Deepak U. patil  <br />
 - Novel method of Determining the Resistors in a Network using limited boundary data and resistance distance metric. (Accepted with minor revisions in IEEE Transactions on Circuits and Systems II: Express Briefs) <br /> Shivanagouda Biradar, Deepak U. patil  <br />
 - Characterizing all circular planar electrical networks corresponding to Limited boundary data using Grobner basis (Major revision in IEEE Systems Journal) <br /> Shivanagouda Biradar, Deepak U. patil  <br />
