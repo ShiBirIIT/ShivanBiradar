@@ -12,12 +12,7 @@ My major research interests lie in Network topology identitification, estimation
 # Favorite Sanskrit Sloka-[Click!!!](https://github.com/ShivanB/Shivan-Biradar/blob/master/slokas.md)                                   
 # PMRF - PhD Work
  - [Electrical Network Identification Using Groebner Basis](https://github.com/ShivanB/Shivan-Biradar/blob/master/Net_ID_Grob.md)<br>
- - [How can white noise used for identification of the network topology](https://github.com/ShivanB/Shivan-Biradar/blob/master/White_Noise_ID.md)<br>
  - [Causal Link discovery with Network Topology Identification](https://github.com/ShivanB/Shivan-Biradar/blob/master/Causal_link_ID.md)<br>
- - [Graphical Machine Learning](https://github.com/ShivanB/Shivan-Biradar/blob/master/GML.md)
- 
- # System Identification
- - [Most Powerful Unfalsified Model](https://github.com/ShivanB/Shivan-Biradar/blob/master/mpum.ipynb)
  
 # Convex Optimization Notes 
 - [Legendre Transformation](https://github.com/ShivanB/Shivan-Biradar/blob/master/doc/0806.1147.pdf)
