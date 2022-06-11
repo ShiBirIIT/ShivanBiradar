@@ -17,4 +17,8 @@ in a disc **D** in the plane so that the boundary nodes lie on the circle **C** 
 \
 If p and q are distinct boundary nodes, a path &beta; from p to q through **G**, consists of a sequence of edges: e<sub>0</sub> = pr<sub>1</sub>, e<sub>1</sub>=r<sub>1</sub>r<sub>2</sub>,..., e<sub>h-1</sub> =
 r<sub>h-1</sub>, e<sub>h</sub>=r<sub>h</sub>q,
-eh = rh1 such that r<sub>1</sub>,r<sub>2</sub>,.. . ,r<sub>h</sub> are distinct interior nodes of G.
+eh = rh1 such that r<sub>1</sub>,r<sub>2</sub>,.. . ,r<sub>h</sub> are distinct interior nodes of G. An edge **pq** between two distinct boundary nodes p and q is allowed as a path from p to q through **G**.\
+\
+Suppose P = (p<sub>1</sub>,... ,p<sub>k</sub>) and Q=(q<sub>1</sub>,..., q<sub>k</sub>) are two sequences of boundary nodes. P and Q are said to be connected through G if there is a permutation &tau; of the indices 1,.. ., k, and k disjoint paths &alpha;<sub>1</sub>,..., &alpha;<sub>k</sub> in G, such that for each i, the path &alpha;<sub>i</sub> starts at p<sub>i</sub> ends at q<sub>&tau;<sub>i</sub></sub>, and passes through no other boundary nodes. To say that the paths &alpha<sub>1</sub>;,..., &alpha<sub>k</sub> are disjoint means that if i&ne;j , then &alpha;<sub>i</sub> and &alpha;<sub>j</sub> have no vertex in common. The set a = {&alpha;<sub>1</sub>,..., &alpha;<sub>k</sub>} is called a k-connection from P to Q.
+
+
