@@ -19,6 +19,57 @@ edge in the electrical network [5].
   ![motivation](https://github.com/ShivanB/Shivan-Biradar/blob/master/assets/img/motivation.jpg)
 
   </div>
+  
+# MOTIVATION
+What is inside the black box electrical network?, can the boundary measurements uncover the hidden truth?, Are all the boundary terminals available for the measurements? and can we reconstruct a uniques electrical network with the limitedly available boundary measurements?. These are the important questions which the motivates the problem. Various reseach studies has posed various solutions to the problem. There are still some untouched problem like reconstructing the electrical network using the partial boundary measurments. And also, constructing all possible networks corresponding to the collected boundary data.
+
+# Literature Survey
+It has been shown in [5] that if the response matrix (Λ)
+satisfies the condition of a non-negative circular minor for
+a circular planar electrical network, with all the boundary
+terminals available, then we can reconstruct both the topol-
+ogy of the planar network and the edge conductance of
+the network. In [6], the authors present an approach for
+calculating the conductor values in a circular planar passive
+resistor network, using voltages and currents measured at
+the boundary. Assuming that only the network structure is
+known and all the boundary terminals are available, a γ-
+harmonic function on the circular network is defined. Then
+using the harmonic continuation and Λ, the conductor values
+are computed. In [7], it is shown that if G is any critical
+[5] circular planar graph corresponding to the circular planar
+resistor network with all boundary terminals available for
+collecting data, the conductor values can be computed using Λ.
+Recent work in phylogenetics has also concentrated on similar
+reconstruction problems, as seen in [8] and [9]. Phylogenetic
+and electrical networks are combinatorially identical objects
+[9]; however, the edge weights are less well understood in
+phylogenetic networks [10]. Electrical networks have been
+traditionally weighted with conductance, whereas phylogenetic
+networks have traditionally been weighted with statistical
+distance measures. However, there is a straightforward analogy
+between the two paradigms: the genetic distance between two
+existing taxa (species or individuals) can be compared to the
+resistance distance [11] between two exposed terminals. In [9],
+assuming that all the boundary terminals and response matrix
+are already available, the authors find a corresponding split
+network [12]. The split network yields the bridge structure
+of the unknown network, which is used to reconstruct the
+local graph. However, to the best of our knowledge, there are
+no general methods that consider partially available boundary
+terminals and fail to list all the possible non-unique electrical
+networks corresponding to the collected limited boundary data.
+In this article, we consider a circular planar passive-resistive
+network with no interior nodes; we show that the limitedly
+available data collected from the experiments done on the
+exposed boundary terminals can be used to design a resistance
+distance matrix RD. The unknowns in the RD can be posed as
+a set of multivariate polynomials F. Since these polynomials
+are huge and increase in number with a decrease in the
+availability of boundary terminals. Gr ̈obner basis is calculated
+corresponding to F, and a list of all possible solutions to the
+Gr ̈obner basis is all possible non-unique electrical network
+topologies with their edge conductance values.
 
 # References
 [1] Asadi, Behrang. Network Reconstruction of Dynamic Biological Sys-
