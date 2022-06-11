@@ -20,7 +20,7 @@ edge in the electrical network [5].
 
   </div>
 
-References
+# References
 [1] Asadi, Behrang. Network Reconstruction of Dynamic Biological Sys-
 tems. University of California, San Diego, 2013.\
 [2] Boo, Chang-Jin, Ho-Chan Kim, and Min-Jae Kang. ”2D Image Recon-
