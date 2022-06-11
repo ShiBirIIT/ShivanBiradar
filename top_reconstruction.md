@@ -71,6 +71,10 @@ corresponding to F, and a list of all possible solutions to the
 Gr ̈obner basis is all possible non-unique electrical network
 topologies with their edge conductance values.
 
+# PRELIMINARIES
+
+
+
 # References
 [1] Asadi, Behrang. Network Reconstruction of Dynamic Biological Sys-
 tems. University of California, San Diego, 2013.\
