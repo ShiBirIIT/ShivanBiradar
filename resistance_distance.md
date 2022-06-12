@@ -17,10 +17,8 @@ The resistance distance of an electrical circuit with arbitrary resistance value
 <p align="center">
   R<sub>D</sub> = X<sub>p</sub>J + JX<sub>p</sub> - 2X
 </p>
-  Here, X<sub>p</sub> is a diagonal matrix, whose diagonal values are equal to diagonal values of matrix X. J is a square matrix of ones.
-  
+ Here, X<sub>p</sub> is a diagonal matrix, whose diagonal values are equal to diagonal values of matrix X. J is a square matrix of ones.
  <p align="center">
-  X=(L+(1/n)J)<sup>-1</sup>
-</p>
-
- 
+  X = [L+(1/n)J]<sup>-1</sup>
+ </p>
+X is moore penrose pseudoinverse of Laplacian matrix.
