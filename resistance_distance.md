@@ -21,4 +21,5 @@ The resistance distance of an electrical circuit with arbitrary resistance value
  <p align="center">
   X = [L+(1/n)J]<sup>-1</sup>
  </p>
-X is moore penrose pseudoinverse of Laplacian matrix.
+X is moore penrose pseudoinverse of Laplacian matrix. 
+Since the problem in the hand assumes that some of the terminals are not available for measurements, the resistance distance matrix has many unknown elements. 
