@@ -14,3 +14,4 @@ and **B has eigenvalues β<sub>1</sub> ≤ · · · ≤ β<sub>m</sub>**. Then
 <p align="center">
 λ<sub>1</sub> ≤ β<sub>1</sub> ≤ λ<sub>2</sub> ≤ β<sub>2</sub> ≤ · · · ≤ β<sub>n-1</sub> ≤ λ<sub>n</sub>.
 </p>
+
