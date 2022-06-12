@@ -23,3 +23,4 @@ The resistance distance of an electrical circuit with arbitrary resistance value
  </p>
 X is moore penrose pseudoinverse of Laplacian matrix. 
 Since the problem in the hand assumes that some of the terminals are not available for measurements, the resistance distance matrix has many unknown elements. 
+This submatrix of R<sub>D</sub> which has only known elements, gives us a important clues on the eigen values. We decode this clues using the "CAUCHY's INTERLACING THEOREM" 
