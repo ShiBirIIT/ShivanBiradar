@@ -55,26 +55,22 @@ assuming that all the boundary terminals and response matrix
 are already available, the authors find a corresponding split
 network [12]. The split network yields the bridge structure
 of the unknown network, which is used to reconstruct the
-local graph. However, to the best of our knowledge, there are
-no general methods that consider partially available boundary
-terminals and fail to list all the possible non-unique electrical
+local graph. 
+# PROBLEM
+However, to the best of our knowledge, there are
+no general methods that consider i) partially available boundary
+terminals and ii) fail to list all the possible non-unique electrical
 networks corresponding to the collected limited boundary data.
-In this article, we consider a circular planar passive-resistive
-network with no interior nodes; we show that the limitedly
-available data collected from the experiments done on the
-exposed boundary terminals can be used to design a resistance
-distance matrix RD. The unknowns in the RD can be posed as
-a set of multivariate polynomials F. Since these polynomials
-are huge and increase in number with a decrease in the
-availability of boundary terminals. Gr ̈obner basis is calculated
-corresponding to F, and a list of all possible solutions to the
-Gr ̈obner basis is all possible non-unique electrical network
-topologies with their edge conductance values.
+In this section we will consider the problem of reconstructing the topology
+of passive resistive electrical network.
 
 # PRELIMINARIES
+- [BASICS ON CIRCULAR PLANAR NETWORK](https://github.com/ShivanB/Shivan-Biradar/blob/master/preliminary.md)
+- [RESISTANCE DISTANCE](https://github.com/ShivanB/Shivan-Biradar/blob/master/resistance_distance.md)
+- [CAUCHY's INTERLACING THEOREM](https://github.com/ShivanB/Shivan-Biradar/blob/master/cauchy.md)
+- [KALMANSON CRITERIA](https://github.com/ShivanB/Shivan-Biradar/blob/master/kalmanson.md)
 
 
-https://github.com/ShivanB/Shivan-Biradar/blob/master/preliminary.md
 # References
 [1] Asadi, Behrang. Network Reconstruction of Dynamic Biological Sys-
 tems. University of California, San Diego, 2013.\
