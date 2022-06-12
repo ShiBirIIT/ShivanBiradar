@@ -4,8 +4,8 @@ principal submatrix of order m, m<n.
 
 **Theorem 1 (Cauchy's Interlacing Theorem):** Suppose A ∈ R<sup>n×n</sup>
 is symmetric. Let B∈R<sup>m×m</sup> with **m < n** be a principal submatrix (obtained by deleting both i-th
-row and i-th column for some values of i). Suppose A has eigenvalues **λ1 ≤ · · · ≤ λn**
-and **B has eigenvalues β1 ≤ · · · ≤ βm**. Then
+row and i-th column for some values of i). Suppose A has eigenvalues **λ<sub>1</sub> ≤ · · · ≤ λ<sub>n</sub>**
+and **B has eigenvalues β<sub>1</sub> ≤ · · · ≤ β<sub>m</sub>**. Then
 
 <p align="center">
 λ<sub>k</sub> ≤ β<sub>k</sub> ≤ λ<sub>k+n−m</sub> for k = 1, · · · , m
