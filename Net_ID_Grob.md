@@ -1,4 +1,5 @@
-# INVERSE PROBLEM in ELECTRIC CIRCUITS
+# INVERSE PROBLEM in ELECTRIC CIRCUITS 
+[Click Here for More Details](https://github.com/ShivanB/Shivan-Biradar/blob/master/doc/Resistance_Network_Reconstruction.pdf)
   # Content
 - Inverse Problems
 - Applications
