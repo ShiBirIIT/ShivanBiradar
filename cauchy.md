@@ -14,7 +14,7 @@ and **B has eigenvalues β<sub>1</sub> ≤ · · · ≤ β<sub>m</sub>**. Then
 <p align="center">
 λ<sub>1</sub> ≤ β<sub>1</sub> ≤ λ<sub>2</sub> ≤ β<sub>2</sub> ≤ · · · ≤ β<sub>n-1</sub> ≤ λ<sub>n</sub>.
 </p>
-Since all the boundary terminals are not available for the measurements. Leading to partially available resistance distances. So, we get only 
+Since all the boundary terminals are not available for the measurements, leading to partially available resistance distances. We  have with us only 
 the submatrix of R<sub>D</sub>. 
 
-The eigen value of the submatrix of R<sub>D</sub>, gave us the idea of the eigen values of the original matrix R<sub>D</sub>. 
+The eigen value of the submatrix of R<sub>D</sub>, gave us the idea of the eigen values of the original matrix R<sub>D</sub>. These inequalities on the eigen values of the symmetric resistance distance matrix R<sub>D</sub> will be used as constraints. 
