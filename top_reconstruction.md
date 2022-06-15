@@ -23,7 +23,7 @@ edge in the electrical network [5].
 # MOTIVATION
 What is inside the black box electrical network?, can the boundary measurements uncover the hidden truth?, Are all the boundary terminals available for the measurements? and can we reconstruct a uniques electrical network with the limitedly available boundary measurements?. These are the important questions which the motivates the problem. Various reseach studies has posed various solutions to the problem. There are still some untouched problem like reconstructing the electrical network using the partial boundary measurments. And also, constructing all possible networks corresponding to the collected boundary data.
 
-# Literature Survey
+# LITERATURE SURVEY
 It has been shown in [5] that if the response matrix (Λ)
 satisfies the condition of a non-negative circular minor for
 a circular planar electrical network, with all the boundary
