@@ -70,7 +70,9 @@ of passive resistive electrical network.
 - [CAUCHY's INTERLACING THEOREM](https://github.com/ShivanB/Shivan-Biradar/blob/master/cauchy.md)
 - [KALMANSON CRITERIA](https://github.com/ShivanB/Shivan-Biradar/blob/master/kalmanson.md)
 - [EIGEN VALUE CONSTRAINTS](https://github.com/ShivanB/Shivan-Biradar/blob/master/Eigen_value_constraint.md)
-
+- [TWO PORT NETWORK](https://github.com/ShivanB/Shivan-Biradar/blob/master/TPN.md)
+# FORMULATION of an OPTIMIZATION PROBLEM
+# RESULTS
 # References
 [1] Asadi, Behrang. Network Reconstruction of Dynamic Biological Sys-
 tems. University of California, San Diego, 2013.\
