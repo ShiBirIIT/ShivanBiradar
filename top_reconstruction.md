@@ -67,8 +67,7 @@ of passive resistive electrical network.
 # PRELIMINARIES
 - [BASICS ON CIRCULAR PLANAR NETWORK](https://github.com/ShivanB/Shivan-Biradar/blob/master/preliminary.md)
 - [RESISTANCE DISTANCE](https://github.com/ShivanB/Shivan-Biradar/blob/master/resistance_distance.md)
-- [CAUCHY's INTERLACING THEOREM](https://github.com/ShivanB/Shivan-Biradar/blob/master/cauchy.md)
-- [EIGEN VALUE CONSTRAINTS](https://github.com/ShivanB/Shivan-Biradar/blob/master/Eigen_value_constraint.md)
+- [CAUCHY's INTERLACING THEOREM & EIGEN VALUE CONSTRAINTS](https://github.com/ShivanB/Shivan-Biradar/blob/master/cauchy.md)
 - [KALMANSON CRITERIA](https://github.com/ShivanB/Shivan-Biradar/blob/master/kalmanson.md)
 - [TWO PORT NETWORK](https://github.com/ShivanB/Shivan-Biradar/blob/master/TPN.md)
 # FORMULATION of an OPTIMIZATION PROBLEM
