@@ -18,3 +18,4 @@ Since all the boundary terminals are not available for the measurements, leading
 the submatrix of R<sub>D</sub>. 
 
 The eigen value of the submatrix of R<sub>D</sub>, gave us the idea of the eigen values of the original matrix R<sub>D</sub>. These inequalities on the eigen values of the symmetric resistance distance matrix R<sub>D</sub> will be used as constraints. 
+- [FOR DETAILED ANALYSIS CLICK HERE](https://github.com/ShivanB/Shivan-Biradar/blob/master/doc/cauchy_eigen.pdf)
