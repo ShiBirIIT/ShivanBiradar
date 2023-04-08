@@ -57,4 +57,7 @@ My major research interests lie in Network topology identitification, estimation
 - [Modified Bergmann Minimal Model for glucose-Insulin dynamics and estimation of model parameters for Indian population](https://www.semanticscholar.org/paper/MODIFIED-BERGMAN-MINIMAL-MODEL-FOR-GLUCOSE-INSULIN-Biradar-Balan/2953cf8f5a09b2592aaaeaaab2d8982419b09608).<br /> Shivanagouda Biradar, A Balan, R Padhi, M Dharamalingam.
 - [Fractional-order IMC controller for high-order system using reduced-order modelling via Big-Bang, Big-Crunch optimisation](https://www.tandfonline.com/doi/full/10.1080/00207721.2021.1942587) <br /> Sahaj Saxena, Shivanagouda Biradar, Yogesh Vijay Hote.  <br />
 
-- [Topology Reconstruction of a Resistive Network with Limited Boundary Measurements]  to appear in proceedings of 2022 Eighth Indian Control Conference (ICC), IIT Madras, Chennai, India. <br /> Shivanagouda Biradar, Deepak U. Patil. <br />
+- Topology Reconstruction of a Resistive Network with Limited Boundary Measurements  to appear in proceedings of 2022 Eighth Indian Control Conference (ICC), IIT Madras, Chennai, India. <br /> Shivanagouda Biradar, Deepak U. Patil. <br />
+
+- 
+
